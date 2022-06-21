@@ -11,3 +11,5 @@ In addition, you may choose to save a game. It will be saved as a "saved_game.ya
 
 Note: make sure the files are in the same directory.
 
+### Live preview:
+The game has been hosted using repli: [Click Here](https://replit.com/@Mohammad-Sulaim/Hangman-Game)
